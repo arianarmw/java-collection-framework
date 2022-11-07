@@ -83,8 +83,7 @@ public class Main {
         family.findNiece("Amy").listPresents();
         
         family.findNiece("Beatrice").listPresents();
-       
-        
+      
 	}
 
 }
